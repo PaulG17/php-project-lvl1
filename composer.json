@@ -1,4 +1,8 @@
 {
+    "bin": [
+    "bin/brain-games"
+  ],
+
     "name": "paul17/php-project-lvl1",
     "authors": [
         {
@@ -11,6 +15,4 @@
 
 }
 
-     "bin": [
-    "bin/brain-games"
-  ]
+
