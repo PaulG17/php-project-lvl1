@@ -1,0 +1,16 @@
+{
+    "name": "paul17/php-project-lvl1",
+    "authors": [
+        {
+            "name": "Paul K.",
+            "email": "gg1779@gmail.com"
+        }
+    ],
+    "require": {}
+
+    "bin": [
+    "bin/brain-games"
+  ]
+}
+
+
