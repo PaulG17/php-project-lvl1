@@ -1,3 +1,2 @@
-#!/usr/bin/env node
-<?php
-echo "Welcome to the Brain Games!";
+#!/usr/bin/env php
+Welcome to the Brain Games!
