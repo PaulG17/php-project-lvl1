@@ -1,7 +1,11 @@
 # php-project-lvl1
 
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/PaulG17/php-project-lvl1/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/PaulG17/php-project-lvl1/test_coverage)
+[![Build Status](https://travis-ci.org/PaulG17/php-project-lvl1.png)](https://travis-ci.org/PaulG17/php-project-lvl1)
 
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage" /></a>
 
-https://travis-ci.org/PaulG17/php-project-lvl1.svg?branch=master
+# Описание проекта
+
+В рамках проекта необходимо реализовать набор мини-игр, запускаемых из консоли.
+
